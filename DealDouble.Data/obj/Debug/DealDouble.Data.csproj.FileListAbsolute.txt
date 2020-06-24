@@ -1,0 +1,17 @@
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\bin\Debug\DealDouble.Data.dll.config
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\bin\Debug\DealDouble.Data.dll
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\bin\Debug\DealDouble.Data.pdb
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\bin\Debug\DealDouble.Entities.dll
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\bin\Debug\EntityFramework.dll
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\bin\Debug\DealDouble.Entities.pdb
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\bin\Debug\EntityFramework.xml
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\obj\Debug\DealDouble.Data.csprojAssemblyReference.cache
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\obj\Debug\DealDouble.Data.csproj.CoreCompileInputs.cache
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\obj\Debug\DealDouble.Data.csproj.CopyComplete
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\obj\Debug\DealDouble.Data.dll
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\obj\Debug\DealDouble.Data.pdb
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\obj\Debug\DealDouble.Data.Migrations.auctionEntityAdded.resources
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\obj\Debug\DealDouble.Data.csproj.GenerateResource.cache
+E:\ASP.Net_MVC\DealDouble\DealDouble\DealDouble.Data\obj\Debug\DealDouble.Data.Migrations.auctions_EndingTime.resources
